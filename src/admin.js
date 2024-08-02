@@ -1,2 +1,2 @@
 // Admin styles
-import './components/admin/_admin.scss'
+// import './components/admin/_admin.scss'
