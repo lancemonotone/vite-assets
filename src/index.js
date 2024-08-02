@@ -9,5 +9,9 @@ import * as bootstrap from 'bootstrap'
 import './index.scss'
 
 /** Components */
+import './components/components.js'
+
+/** Modules */
+import './modules/modules.js'
 
 /**  Flex Page Layouts (see README in layouts directory) */
